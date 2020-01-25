@@ -1,4 +1,3 @@
-# aswe
-AoidSoft Web Engine(s) 
+ASWE — AoidSoft Web Engine(s) 
 
 Используется технология SSI.
